@@ -26,7 +26,7 @@ public class InformacoesUsuarioTest {
 		
 		formularioSignInBox.findElement(By.name("login")).sendKeys("wilkerbn");
 		
-		formularioSignInBox.findElement(By.name("password")).sendKeys("9999");
+		formularioSignInBox.findElement(By.name("password")).sendKeys("6666666");
 		
 		formularioSignInBox.findElement(By.xpath("//*[@id=\"signinbox\"]/div[2]/a")).click();
 		
